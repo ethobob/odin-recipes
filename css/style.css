@@ -1,8 +1,13 @@
 * {
-    font-weight: bold;
+    box-sizing: border-box;
+}
+
+.food-image {
+    text-align: center;
 }
 
 .header {
+    font-weight: bold;
     text-align: center;
     color: red;
 }
